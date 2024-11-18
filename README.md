@@ -4,3 +4,6 @@ Evento da RocketSeat - Nlw Pocket - Trilha Intermediaria
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
+- HTML
+- CSS
+- TypeScript
